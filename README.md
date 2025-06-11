@@ -1,9 +1,6 @@
-Analysis of Mental illness Prevance .csv  of different countries using Python
+# Analysis of Mental illness Prevance .csv  of different countries using Python
 
-
-
-
-Key Features:
+# Key Features:
 Version Pinning: Exact versions to ensure reproducibility
 Analysis-Specific Packages:
 scikit-learn for preprocessing (LabelEncoder)
@@ -14,8 +11,8 @@ Lightweight: Only essential packages
 
 
 
-Requirements.txt
-# Data Analysis Core
+# Requirements.txt
+ Data Analysis Core
 pandas==2.0.3
 numpy==1.24.3
 scipy==1.10.1
